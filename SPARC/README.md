@@ -16,8 +16,8 @@ SPARC is the only smart-device in the IoT ecosystem specifically conceived to el
 Apart from the device's embedded technology, the SPARC comes with a unique set of features specific to drivers. These features are provided through a backend powered by `Node.js`. 
 
 Technology used:
-* [javascript](SPARC/js.md) as programming language
-* [node.js](SPARC/nodejs.md) as webserver
-* [Handlebar](SPARC/handlebars.md) for templating
-* [Restify](SPARC/restify.md) for APIs
+* [javascript](js.md) as programming language
+* [node.js](nodejs.md) as webserver
+* [Handlebar](handlebars.md) for templating
+* [Restify](restify.md) for APIs
 
